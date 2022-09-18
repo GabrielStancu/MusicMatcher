@@ -25,3 +25,15 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Color Palette
+
+Green Color Palette: https://coolors.co/95f9e3-69ebd0-59e0b7-49d49d-4fad81-529973-558564-566755-56584e-564946
+Grey Color Palette: https://coolors.co/353f3e-e6e6e6-aaafae-707173-ffffff
+
+## Used Websites
+
+Site to generate the logo: https://www.logodesign.net/logos-gallery?txt_keyword=Music&logo_desc=music+recommendations+webstite&logotype=normal%2Cnormal%2Cnormal&fonttype=montserrat_regular%2Cyesteryear%2Ctrajan_pro&colortype=0d7039&hidden_txt_keyword=&hidden_logo_desc=&button=&page=13
+
+Site for the logo template: https://www.sliderrevolution.com/resources/bootstrap-login-form/
+
