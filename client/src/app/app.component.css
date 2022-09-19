@@ -83,7 +83,7 @@ h2 {
 /* STRUCTURE */
 
 .bg-image {
-    background-image: url("../assets/background-map.jpg");
+    background-image: url("../assets/Background.jpg");
   
     /* Control the height of the image */
     min-height: 1000px;
